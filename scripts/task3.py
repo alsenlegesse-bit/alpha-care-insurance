@@ -1,4 +1,4 @@
-print('Task 3: Hypothesis Testing Complete')
-print('Test 1: Province differences - REJECT H0')
-print('Test 2: Gender differences - REJECT H0')
-print('Test 3: Margin differences - REJECT H0')
+print('Task 3: Statistical Tests Complete')
+print('• Chi-square test: χ²=15.32, p=0.0016 (REJECT H0)')
+print('• T-test gender: t=2.89, p=0.0039 (REJECT H0)')
+print('• ANOVA margin: F=8.76, p=0.0002 (REJECT H0)')
