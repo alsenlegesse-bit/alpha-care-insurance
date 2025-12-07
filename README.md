@@ -1,46 +1,16 @@
-# AlphaCare Insurance Solutions - Risk Analysis Project
+# AlphaCare Insurance Project
 
-## Project Overview
-Analysis of historical car insurance claims to identify low-risk segments and optimize marketing.
+## Tasks Completed
+1. Task 1: EDA - Done
+2. Task 2: DVC - Done
+3. Task 3: Hypothesis Tests - Done
+4. Task 4: Machine Learning - Done
 
-## Business Objective
-- Identify 'low-risk' customers for premium reduction
-- Optimize marketing strategy
-- Develop predictive models for risk assessment
-
-## Data Period
-February 2014 to August 2015
-
-## Tasks
-1. EDA and Data Understanding
-2. Data Version Control (DVC)
-3. A/B Hypothesis Testing  
-4. Predictive Modeling
-
-## Team
-[Your Name] - Marketing Analytics Engineer
-
-## Timeline
-- Start: Dec 3, 2025
-- Interim: Dec 7, 2025 (Tasks 1-2)
-- Final: Dec 9, 2025 (All tasks)
-
-## Setup
-```bash
-# Clone repository
-git clone <repo-url>
-
-# Install dependencies
+## How to Run
 pip install -r requirements.txt
+python scripts/task1.py
+python scripts/task3.py
+python scripts/task4.py
 
-# Run EDA
-python scripts/perform_eda.py
-```
-
-## File Structure
-- `data/raw/` - Original data files
-- `data/processed/` - Cleaned data
-- `notebooks/` - Jupyter notebooks
-- `scripts/` - Python scripts
-- `reports/` - Analysis reports
-- `utils/` - Utility functions
+## GitHub
+https://github.com/alsenlegesse-bit/alpha-care-insurance

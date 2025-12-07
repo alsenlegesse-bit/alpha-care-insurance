@@ -1,8 +1,0 @@
-print("TASK 2: DATA VERSION CONTROL SETUP")
-print("="*50)
-print("DVC Commands to run:")
-print("1. pip install dvc")
-print("2. dvc init")
-print("3. dvc add data/insurance_sample.csv")
-print("4. dvc push")
-print("\n✓ DVC setup instructions ready")
